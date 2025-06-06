@@ -4,7 +4,7 @@ import {
   Text,
   StyleSheet,
   ScrollView,
-  Presseable,
+  Pressable,
   StatusBar,
 } from 'react-native';
 
@@ -32,7 +32,7 @@ export default function PartScreen({ route, navigation }) {
         <View style={styles.questionsContainer}>
           <Text style={styles.sectionTitle}>Cuestiones</Text>
           {part.questions.map((question) => (
-            <Presseable
+            <Pressable
               key={question.id}
               style={styles.questionCard}
               onPress={() => handleQuestionPress(question)}
@@ -45,7 +45,7 @@ export default function PartScreen({ route, navigation }) {
                 </Text>
               </View>
               <Text style={styles.questionTitle}>{question.title}</Text>
-            </Presseable>
+            </Pressable>
           ))}
         </View>
       </ScrollView>

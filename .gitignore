@@ -11,6 +11,9 @@ expo-env.d.ts
 
 # Native
 .kotlin/
+android/
+ios/
+web/
 *.orig.*
 *.jks
 *.p8
@@ -35,18 +38,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
-
-# Archivos temporales de extracción
-*_progress_*.json
-*_test.json
-*_partial.json
-*_complete.json
-test_*.py
-extract_*.py
-integrate_*.py
-analyze_*.py
-debug_*.py
-verify_*.py
 
 # Backups
 *_backup_*.json

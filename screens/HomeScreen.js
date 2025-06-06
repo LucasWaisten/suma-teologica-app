@@ -4,7 +4,7 @@ import {
   Text,
   StyleSheet,
   ScrollView,
-  TouchableOpacity,
+  Pressable,
   StatusBar,
 } from 'react-native';
 import sumaData from '../data/sumaTeologica.json';
@@ -29,7 +29,7 @@ export default function HomeScreen({ navigation }) {
         {/* Parts Cards */}
         <View style={styles.cardsContainer}>
           {sumaData.structure.parts.map((part) => (
-            <TouchableOpacity
+            <Pressable
               key={part.id}
               style={styles.card}
               onPress={() => handlePartPress(part)}
@@ -45,7 +45,7 @@ export default function HomeScreen({ navigation }) {
                   {part.description}
                 </Text>
               </View>
-            </TouchableOpacity>
+            </Pressable>
           ))}
         </View>
 

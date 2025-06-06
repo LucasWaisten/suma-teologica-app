@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SumaTeologica",
-    "slug": "SumaTeologica",
+    "name": "Suma de Teología",
+    "slug": "suma-de-teologia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,17 +13,29 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sumadeteologia.app",
+      "buildNumber": "1",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.sumadeteologia.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62eaa25d-f5a8-49e0-bcca-8ec90e994847"
+      }
+    },
+    "owner": "waistenlucas"
   }
 }

@@ -4,7 +4,7 @@ import {
   Text,
   StyleSheet,
   ScrollView,
-  Presseable,
+  Pressable,
   StatusBar,
 } from 'react-native';
 
@@ -32,7 +32,7 @@ export default function QuestionScreen({ route, navigation }) {
         <View style={styles.articlesContainer}>
           <Text style={styles.sectionTitle}>Artículos</Text>
           {question.articles.map((article) => (
-            <Presseable
+            <Pressable
               key={article.id}
               style={styles.articleCard}
               onPress={() => handleArticlePress(article)}
@@ -45,7 +45,7 @@ export default function QuestionScreen({ route, navigation }) {
                 </View>
               </View>
               <Text style={styles.articleTitle}>{article.title}</Text>
-            </Presseable>
+            </Pressable>
           ))}
         </View>
       </ScrollView>

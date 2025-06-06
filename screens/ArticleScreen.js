@@ -4,7 +4,7 @@ import {
   Text,
   StyleSheet,
   ScrollView,
-  TouchableOpacity,
+  Pressable,
   StatusBar,
 } from 'react-native';
 
@@ -16,7 +16,7 @@ export default function ArticleScreen({ route }) {
 
   const LanguageSelector = () => (
     <View style={styles.languageSelector}>
-      <TouchableOpacity
+      <Pressable
         style={[
           styles.languageButton,
           selectedLanguage === 'es' && styles.languageButtonActive,
@@ -31,8 +31,8 @@ export default function ArticleScreen({ route }) {
         >
           Español
         </Text>
-      </TouchableOpacity>
-      <TouchableOpacity
+      </Pressable>
+      <Pressable
         style={[
           styles.languageButton,
           selectedLanguage === 'la' && styles.languageButtonActive,
@@ -47,7 +47,7 @@ export default function ArticleScreen({ route }) {
         >
           Latín
         </Text>
-      </TouchableOpacity>
+      </Pressable>
     </View>
   );
 
