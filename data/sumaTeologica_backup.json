@@ -1,0 +1,651 @@
+{
+  "title": "Suma Teológica",
+  "author": "Santo Tomás de Aquino (1225-1274)",
+  "subtitle": "Doctor de la Iglesia Católica",
+  "languages": [
+    "es",
+    "la",
+    "en"
+  ],
+  "structure": {
+    "parts": [
+      {
+        "id": "I",
+        "title": "Primera parte",
+        "subtitle": "Prima",
+        "description": "Teología (1). Dios: Dios uno (2-26), Dios trino (27-43), Dios creador (44-74). Criaturas: ángeles (50-64), hombre (75-102), cosmos (103-119).",
+        "questions": [
+          {
+            "id": 1,
+            "title": "¿Qué es y qué comprende la doctrina sagrada?",
+            "articles": [
+              {
+                "id": 1,
+                "title": "¿Es o no necesario que, además de las materias filosóficas, haya otra",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 2,
+                "title": "La doctrina sagrada, ¿es o no es ciencia?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 3,
+                "title": "La doctrina sagrada en cuanto ciencia, ¿es una o múltiple?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 4,
+                "title": "La doctrina sagrada, ¿es o no es ciencia práctica?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 5,
+                "title": "La doctrina sagrada, ¿es o no es superior a las otras",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 6,
+                "title": "La doctrina sagrada, ¿es o no es sabiduría?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", la sabiduría es infusa, de ahí que se encuentre entre los siete dones del Espíritu Santo, como queda claro en Is 11,2. Por lo tanto, la doctrina sagrada no es sabiduría. Contra esto: está lo que dice Dt 4,6, al principio de la ley: Esta es nuestra sabiduría y nuestro modo de entender entre los pueblos.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 7,
+                "title": "¿Es o no es Dios el sujeto de esta ciencia?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 8,
+                "title": "La doctrina sagrada, ¿es o no es argumentativa?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 9,
+                "title": "La Sagrada Escritura, ¿debe o no debe utilizar metáforas?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 10,
+                "title": "sentidos?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Sobre la existencia de Dios",
+            "articles": [
+              {
+                "id": 1,
+                "title": "Dios, ¿es o no es evidente por sí mismo?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 2,
+                "title": "La existencia de Dios, ¿es o no es demostrable?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "la fe trata lo no evidente, como dice el Apóstol en Heb 11,1. Por lo tanto, la existencia de Dios no es demostrable. 2. La base de la demostración está en lo que es. Pero de Dios no podemos saber qué es, sino sólo qué no es, como dice el Damasceno. Por lo tanto, no podemos demostrar la existencia de Dios. 3. Si se demostrase la existencia de Dios, no sería más que a partir de sus efectos. Pero sus efectos no son proporcionales a Él, en cuanto que los efectos son finitos y Él es infinito; y lo finito no es proporcional a lo infinito. Como quiera, pues, que la causa no puede demostrarse a partir de los efectos que no le son proporcionales, parece que la existencia de Dios no puede ser demostrada. Contra esto: está lo que dice el Apóstol en Rom 1,20: Lo invisible de Dios se hace comprensible y visible por lo creado. Pero esto no sería posible a no ser que por lo creado pudiera ser demostrada la existencia de Dios, ya que lo primero que hay que saber de una cosa es si existe.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 3,
+                "title": "¿Existe o no existe Dios?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": ", no se daría tampoco ni la última ni la intermedia. Si en las causas eficientes llevásemos hasta el infinito este proceder, no existirí"
+                      },
+                      {
+                        "to_objection": 1,
+                        "text": "causa eficiente; en consecuencia no habría efecto último ni causa intermedia; y esto es absolutamente falso. Por lo tanto, es necesario admitir una causa eficiente primera. Todos la llaman Dios. 3) La tercera es la que se deduce a partir de lo posible y de lo necesario. Y dice: Encontramos que las cosas pueden existir o no existir, pues pueden ser producidas o destruidas, y consecuentemente es posible que existan o que no existan. Es imposible que las cosas sometidas a tal posibilidad existan siempre, pues lo que lleva en sí mismo la posibilidad de no existir, en un tiempo no existió. Si, pues, todas las cosas llevan en sí mismas la posibilidad de no existir, hubo un tiempo en que nada existió. Pero si esto es verdad, tampoco ahora existiría nada, puesto que lo que no existe no empieza a existir más que por algo que ya existe. Si, pues, nada existía, es imposible que algo empezara a existir; en consecuencia, nada existiría; y esto es absolutamente falso. Luego no todos los seres son sólo posibilidad; sino que es preciso algún ser necesario. Todo ser necesario encuentra su necesidad en otro, o no la tiene. Por otra parte, no es posible que en los seres necesarios se busque la causa de su necesidad llevando este proceder indefinidamente, como quedó probado al tratar las causas eficientes (núm. 2). Por lo tanto, es preciso admitir algo que sea absolutamente necesario, cuya causa de su necesidad no esté en otro, sino que él sea causa de la necesidad de los demás. Todos le dicen Dios. 4) La cuarta vía se toma de los grados que se encuentran en las cosas. Pues se encuentra en las cosas algo más y menos bueno, y verdadero, y noble, y así otras cosas semejantes. Pero este más y este menos se dice de las cosas en cuanto que se aproximan más o menos a lo máximo. Así, caliente se dice de aquello que se aproxima más al máximo calor. Hay algo, por tanto, que es verísimo y óptimo y nobilísimo; y, en consecuencia, es el máximo ser; pues las cosas que son máximamente verdaderas, son máximamente seres, como se dice en II Metaphys.. Pero lo que es máximamente tal en algún género es la causa de todas las cosas que son de ese género, como el fuego, que es el máximo calor, es causa de todos los calores, como se explica en el mismo libro , del mismo modo hay algo que en todos los seres es causa de su ser, de su bondad, de cualquier otra perfección, y a éste le llamamos Dios. 5) La quinta se deduce a partir del ordenamiento de las cosas. Pues vemos que hay cosas que no tienen conocimiento, como son los cuerpos naturales, y que obran por un fin. Esto se puede comprobar observando cómo siempre o a menudo obran igual para conseguir lo mejor. De donde se deduce que, para alcanzar su objetivo, no obran al azar, sino intencionadamente. Las cosas que no tienen conocimiento no tienden al fin sin ser dirigidas por alguien con conocimiento e inteligencia, como la flecha por el arquero. Por lo tanto, hay alguien inteligente por el que todas las cosas son dirigidas al fin. Le llamamos Dios. A las objeciones: 1. Escribe Agustín en el Enchiridion: Dios, por ser el bien sumo, de ninguna manera permitiría que hubiera algún tipo de mal en sus obras, a no ser que, por ser omnipotente y bueno, del mal sacara un bien. Esto pertenece"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Sobre la simplicidad de Dios",
+            "articles": [
+              {
+                "id": 1,
+                "title": "Dios, ¿es o no es cuerpo?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 2,
+                "title": "En Dios, ¿hay o no hay composición de forma y de materia?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 3,
+                "title": "Dios, ¿es o no es lo mismo que su esencia o naturaleza?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", de Dios se dice que es vida y no sólo que es viviente, como queda claro en Jn 14,6: Yo soy el camino, la verdad y la vida. De este modo, lo que es la vida para el viviente, es la deidad para Dios. Por lo tanto, Dios es la misma deidad.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 4,
+                "title": "En Dios, ¿es o no es lo mismo su esencia y existencia?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", no fuera su propia existencia, sería ser por participación, no por esencia. Tampoco sería el primer ser; y sostener esto es absurdo. Por lo tanto, Dios es su propio existir y no sólo su esencia. A las objeciones: 1. Algo a lo que no se añade nada es una expresión que puede entenderse de dos maneras. Una, cuando por naturaleza no se admite algo. Ejemplo: Propio del animal irracional es que no tenga razón. Otra, cuando no se añade nada a algo porque por naturaleza no hay por qué hacerlo. Ejemplo: El animal en general no tiene razón porque no es de su naturaleza tenerla, como tampoco no tenerla. El primer sentido expresado, ser sin adición, corresponde al ser divino; el segundo, al ser en general. 2. Ser puede tener dos sentidos. Uno, con el significado de existir; otro, con el significado de unión en una proposición, esto es, cuando el entendimiento une el predicado con el sujeto. Con la primera acepción de ser no podemos conocer el ser de Dios, tampoco su esencia. Pero con la segunda acepción sí, pues sabemos que la proposición que hacemos de Dios al decir Dios existe, es verdadera. Esto lo sabemos por sus efectos, como quedó dicho (q.2 a.2).",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 5,
+                "title": "Dios, ¿pertenece o no pertenece a algún género?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", se diferencian en el ser, pues no es lo mismo el ser del hombre que el ser del caballo, ni el ser de este hombre, ni el ser de aquel hombre. Así, es necesario que en las cosas de un mismo género se distinga el ser de aquello por lo que es lo que es, es decir, la esencia. Como quedó demostrado (a.4), en Dios no hay diferencia. De donde se sigue claramente que Dios no pertenece a ningún género ni a especie alguna. Con todo esto queda patente que no tiene género ni diferencia; tampoco definición ni demostración a no ser por los efectos, porque la definición contiene género y diferencia; y la definición es la base de la demostración. Que Dios como principio no pertenece a género alguno por reducción, queda claro por el hecho de que todo principio que se reduce a un género no va más allá de dicho género; como el punto no es más que principio de la cantidad continua, y la unidad lo es de la discreta. Dios es principio de todo ser como se demostrará (q.44 a.1). De ahí que no pertenezca a ningún género como principio. A las objeciones: 1. La palabra sustancia no significa solamente lo que subsiste por sí mismo, pues lo que es ser en cuanto tal no es género, como se demostró. Sino que significa la esencia a la que corresponde ser así, esto es, ser por sí misma. Sin embargo, el ser no es su misma esencia. De este modo queda claro que Dios no pertenece al género de la sustancia. 2. Se habla de medida proporcionada. Pero es necesario que tal medida sea homogénea a lo que se mide. No obstante, Dios no es la medida proporcionada de algo y, sin embargo, se dice que es la medida de todo, ya que cuanto más cerca se está de El tanto mayor plenitud se tiene.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 6,
+                "title": "En Dios, ¿hay o no hay algo accidental?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 7,
+                "title": "Dios, ¿es o no es absolutamente simple?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", Dios es el primer ser, como quedó demostrado (q.2 a.3). 3) La tercera, porque todo compuesto tiene causa, pues donde hay diversidad no se puede formar un todo si no es por una causa que lo unifica. En cambio, Dios no tiene causa, ya que es la primera causa eficiente, como quedó demostrado (q.2 a.3). 4) La cuarta, porque en todo compuesto es necesario que haya potencia y acto, que en Dios no existe; porque una parte es acto con respecto a otra, o, al menos, todas las partes están como en potencia respecto del todo. 5) La quinta, porque todo compuesto es algo que no puede aplicarse a cada una de sus partes. Esto resulta evidente en todos los seres de partes distintas; pues ninguna parte del hombre es hombre, o una parte del pie es pie. En cambio, en todos los seres de partes semejantes, puede decirse del todo lo que se dice de la parte, como es aire la parte del aire, o es agua la parte del agua. Sin embargo puede decirse algo del todo que no es aplicable a una de las partes. Pues si el todo de agua mide metro y medio, lo dicho del todo no es aplicable a su parte. Así, pues, en todo compuesto hay algo que no es el mismo. Aunque esto puede decirse de lo que tiene forma, es decir, que tenga algo que no es el mismo (así en lo blanco hay algo que no pertenece a lo que se dice blanco), sin embargo, en la forma nada le es extraño. Como quiera que Dios es la misma forma, o mejor, el mismo ser, no puede ser compuesto en absoluto. Esto mismo lo expresa Hilario en el VII De Trinit. al decir: Dios, que es la fuerza, no contiene lo débil; El, que es la luz, no admite la tiniebla. A las objeciones: 1. Lo que proviene de Dios imita a Dios como lo causado a la primera causa. Además, propio de lo causado es que de algún modo sea compuesto; porque, al menos, su existencia es distinta de aquello por lo que es, como quedará demostrado (q.50 a.2). 2. Para nosotros, los compuestos son mejores que los simples, porque la bondad perfecta de lo creado no se encuentra en uno solo, sino entre muchos. Pero la perfección de la bondad divina se encuentra en uno simple, como quedará demostrado (q.4 a.2 ad 1).",
+                    "corpus": "",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": "causa. Además, propio de lo causado es que de algún modo sea compuesto; porque, al menos, su existencia es distinta de aquello por lo que es, como quedará demostrado (q.50 a.2). 2. Para nosotros, los compuestos son mejores que los simples, porque la bondad perfecta de lo creado no se encuentra en uno solo, sino entre muchos. Pero la perfección de la bondad divina se encuentra en uno simple, como quedará demostrado (q.4 a.2 ad 1)."
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": 8,
+                "title": "seres?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "Sobre la perfección de Dios",
+            "articles": [
+              {
+                "id": 1,
+                "title": "Dios, ¿es o no es perfecto?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", Dios es tenido como primer principio, pero no material, sino como causa eficiente; y por eso es necesario que sea perfecto en grado sumo. Pues así como la materia en cuanto tal está en potencia, del mismo modo el agente en cuanto tal está en acto. De ahí que el primer principio activo precisa en grado sumo estar en acto; y consecuentemente también en grado sumo ser perfecto. Pues se dice que algo es perfecto en cuanto que está en acto. Se llama perfecto a lo que, de cuanto requiere su perfección, nada le falta. A las objeciones: 1. Expresamos lo sublime de Dios balbuciendo como podemos; porque lo que no es hecho, propiamente no puede decirse perfecto.  Pero como quiera que en las cosas que se hacen se dice que algo es perfecto cuando pasa de la potencia al acto, se hizo uso del término perfecto para significar todo aquello que no tiene deficiencia al estar en acto, tanto si ya ha sido hecho como si no. 2. El principio material, que para nosotros es imperfecto, no puede ser en absoluto el primero, sino que está precedido de otro perfecto. Ejemplo: La semilla, aun cuando sea el principio del animal nacido de semen, sin embargo, anterior a ella está el animal o la planta de la que se sacó. Pues se precisa que antes de lo que está en potencia, algo esté en acto; ya que un ser en potencia no pasa a ser en acto si no es por otro ser en acto. 3. El mismo ser es lo más perfecto de todas las cosas, pues se compara a todas las cosas como acto. Ya que nada tiene actualidad sino en cuanto que es. De ahí que el mismo ser sea actualidad de todas las cosas y también de todas las formas. De hecho no se compara a las otras cosas como el recipiente a lo recibido, sino en especial como lo recibido al recipiente. Pues cuando digo ser del hombre, o del caballo, o de otra cosa, este mismo ser es considerado como formal y recibido, no como algo al que le compete ser.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 2,
+                "title": "En Dios, ¿están o no están las perfecciones de todas las",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", el agente, en cuanto tal, es perfecto. Así, pues, como quiera que Dios es la primera causa eficiente de las cosas, es necesario que las cosas preexistan en Dios de un modo más sobresaliente. Idéntica razón expresa Dionisio en el c.5 De Div. Nom., al decir de Dios: No es esto, ni aquello, sino todo como causa de todo. 2) El segundo, deducible de lo que se demostró (q.3 a.4), porque Dios es el mismo ser que subsiste por sí mismo, por lo cual es necesario que contenga toda la perfección del ser. Pues resulta evidente que, si algo caliente no tiene toda la perfección del calor, esto es así porque no participa del calor perfectamente; pero si el calor fuera subsistente por sí mismo, nada le faltaría de la perfección del ser. Por tanto, si Dios es el mismo ser subsistente, no puede faltarle nada de la perfección del ser. Las perfecciones de todas las cosas pertenecen a la perfección del ser; pues son perfectos en tanto en cuanto tienen de algún modo ser. De ahí se sigue que -ninguna perfección de las cosas le falta a Dios. Idéntica razón expresa Dionisio en el c.5 De Div. Nom. al decir de Dios: No existe de un modo cualquiera, sino absolutamente; concentrando en sí mismo todo el ser de forma ilimitada e invariable. Y después añade: porque el mismo es el ser en lo que subsiste. A las objeciones: 1. Escribe Dionisio en el c.5 De Div. Nom.: Así como el sol concentra en sí mismo uniformemente las múltiples y variadas sustancias y cualidades del mundo sensible siendo uno y sin dejar de brillar, con mayor motivo es necesario que todas las cosas preexistan en unión natural en la causa de todas. Así, las cosas que son diversas y opuestas en sí mismas, preexisten en Dios como uno sin destruir la simplicidad divina. 2. En lo dicho está incluida la respuesta. 3. En el mismo capítulo, Dionisio dice que, aun cuando por las distinciones del entendimiento se puede estimar que el ser sea más perfecto que la vida, y la sabiduría más perfecta que la misma vida, sin embargo, el viviente es más perfecto que el simple ser, pues el viviente también es ser; y el sabio es ser y viviente. Así, pues, aunque el ser no incluye en sí al viviente y al sabio, puesto que no es necesario que lo que participa el ser lo participe en todos sus grados; sin embargo, el mismo Dios abarca la vida y la sabiduría, porque ninguna de las perfecciones del ser le puede faltar a quien es el ser subsistente por sí mismo.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 3,
+                "title": "Dios?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", si el agente no pertenece a la misma especie, habrá semejanza, pero no por la misma razón de la especie. Ejemplo: Las cosas que son generadas por la fuerza del sol, tienen alguna semejanza con el sol, pero no porque reciban la forma del sol por la semejanza en la especie, sino por la semejanza en el género. Así, pues, si hay algún agente que no pertenezca a ningún género, sus efectos tendrán todavía una semejanza más remota con la forma del agente. Sin embargo no participarán de la semejanza de la forma del agente por razón de la misma especie o del mismo género, sino por una cierta analogía, como el mismo ser es común a todos. De este modo, todas las cosas, que proceden de Dios, se asemejan a Él en cuanto seres como al principio primero y absoluto de todo ser. A las objeciones: 1. Escribe Dionisio en el c.9 De Div. Nom. a propósito de la Sagrada Escritura cuando dice que algo no es semejante a Dios: No se opone a la semejanza con El. Pues una misma cosa es semejante y desemejante a Dios. Semejante en cuanto que le imita en la medida en que puede imitarse lo que no es totalmente imitable; desemejante en cuanto que se distinguen de su propia causa. Y esto no sólo por intensidad o disminución, como lo menos blanco y lo más blanco; sino porque no hay correspondencia ni en la especie ni en el género. 2. Dios no es comparable a las criaturas como se comparan las cosas de género distinto, sino como algo que no pertenece a ningún género y que es principio de todos los géneros. 3. No se dice que la criatura sea semejante a Dios por su correspondencia en la misma forma por razón del género o de la especie; sino sólo por analogía, es decir, en cuanto que Dios es el ser por esencia, y todos los demás lo son por participación. 4. Aun cuando de algún modo se concede que la criatura sea semejante a Dios, sin embargo, de ningún modo puede admitirse que Dios sea semejante a la criatura; pues, como dice Dionisio en el c.9 De Div. Nom.: Entre las cosas que son de un mismo orden hay semejanza mutua, pero no como entre la causa y lo causado; pues decimos que la imagen es semejante al hombre, no al revés. Así es como puede decirse de algún modo que la criatura es semejante a Dios; no, sin embargo, que Dios sea semejante a la criatura. c. 4 Suma Teológica de Santo Tomás de Aquino • Última actualización: sept. 2012 • hjg.com.ar",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "Sobre el bien en general",
+            "articles": [
+              {
+                "id": 1,
+                "title": "realmente?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 2,
+                "title": "El bien, ¿es o no es conceptualmente anterior al ser?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", sólo a lo existente. Por lo tanto, conceptualmente el bien es anterior al ser. 3. Conceptualmente es anterior lo que es universal. Pero parece que el bien es más universal que el ser, porque el bien es apetecible; y para algunos resulta apetecible incluso el no ser, según aquello que de Judas dice Mt 26,24: Para él habría sido un bien no haber nacido. Por lo tanto, conceptualmente el bien es anterior al ser. 4. No sólo el ser es apetecible, sino también la vida y la sabiduría, y muchas cosas parecidas. Así parece que el ser es apetecible de un modo particular, y el bien de un modo universal. Por lo tanto, conceptualmente y de forma absoluta, el bien es anterior al ser. Contra esto: está lo que se dice en el libro De Causis: El ser es la primera de las cosas creadas.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 3,
+                "title": "¿Es o no es bueno todo ser?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 4,
+                "title": "¿Tiene o no tiene el bien razón de causa final?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 5,
+                "title": "el orden?",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": ", el mal priva de algún ser, como la ceguera priva de la vista; pero no por eso aniquila del todo el modo, la especie y el orden, sino sólo el modo, la especie y el orden que le corresponde al ser de la vista. 4. Como escribe Agustín en el libro De Natura Boni: Todo modo, en cuanto modo, es bueno (lo mismo puede decirse de la especie y del orden); pero el mal modo, la mala especie y el mal orden o se llaman así porque no alcanzan el grado que deberían tener, o porque se aplican a cosas a las que no se los puede aplicar. Y así se llaman malos porque son extraños o ajenos. 5. La naturaleza de la luz no tenga número, peso ni medida, no se dice en sentido absoluto, sino por comparación a lo corporal, porque la fuerza de la luz llega a todo lo corporal en cuanto es cualidad activa del primer cuerpo que puede alterar, esto es, del firmamento.",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              },
+              {
+                "id": 6,
+                "title": "¿Es o no es adecuado dividir el bien en honesto, útil y",
+                "content": {
+                  "es": {
+                    "objections": [],
+                    "sed_contra": "",
+                    "corpus": "",
+                    "replies": []
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "I-II",
+        "title": "Primera sección de la segunda parte",
+        "subtitle": "Prima secundae",
+        "description": "Bienaventuranza, fin del hombre (1-5). Actos humanos (7-21). Pasiones (22-48), hábitos (49-54). Virtud (55-67), dones (68-70), vicio y pecado (71-89). Ley: en general (90-97), antigua (98-105), nueva (106-108). Gracia (109-113), mérito (114).",
+        "questions": [
+          {
+            "id": 1,
+            "title": "El fin último del hombre",
+            "articles": [
+              {
+                "id": 1,
+                "title": "¿Es propio del hombre obrar por un fin?",
+                "content": {
+                  "es": {
+                    "objections": [
+                      {
+                        "id": 1,
+                        "text": "La causa es algo previo por naturaleza. El fin, por el contrario, denota algo último, como su nombre mismo indica. Por lo tanto, el fin no tiene razón de causa..."
+                      },
+                      {
+                        "id": 2,
+                        "text": "Además, lo que es fin último no es por un fin. Pero hay acciones que son fin último, como señala el Filósofo en I Ethica..."
+                      },
+                      {
+                        "id": 3,
+                        "text": "Además, parece que el hombre obra por un fin precisamente cuando delibera. Pero hace muchas cosas sin deliberación..."
+                      }
+                    ],
+                    "sed_contra": "Todo lo que pertenece a un género determinado procede del principio de este género. Pero el fin es principio del obrar humano, como señala el Filósofo en II Phys. Luego es propio del hombre el obrar siempre por un fin.",
+                    "corpus": "De entre las acciones que el hombre realiza, sólo pueden considerarse propiamente humanas aquellas que son propias del hombre en cuanto que es hombre. El hombre se diferencia de las criaturas irracionales en que es dueño de sus actos...",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": "El fin, aunque es lo último en la ejecución, es lo primero en la intención del agente. Y de este modo tiene razón de causa."
+                      },
+                      {
+                        "to_objection": 2,
+                        "text": "Si alguna acción humana es fin último, es necesario que sea voluntaria, como acabamos de decir..."
+                      },
+                      {
+                        "to_objection": 3,
+                        "text": "Estas acciones no son propiamente humanas, porque no proceden de una deliberación de la razón..."
+                      }
+                    ]
+                  },
+                  "la": {
+                    "objections": [
+                      {
+                        "id": 1,
+                        "text": "Causa est naturaliter prius. Finis autem nominat ultimum, ut ipsum nomen sonat..."
+                      },
+                      {
+                        "id": 2,
+                        "text": "Praeterea, id quod est ultimus finis, non est propter finem..."
+                      },
+                      {
+                        "id": 3,
+                        "text": "Praeterea, homo videtur agere propter finem quando deliberat..."
+                      }
+                    ],
+                    "sed_contra": "Omnia quae sunt unius generis, reducuntur ad unum primum illius generis. Sed finis est principium in operibus humanis, ut philosophus dicit in II Physic. Ergo proprium est hominis agere semper propter finem.",
+                    "corpus": "Eorum quae ab homine aguntur, illa solummodo dicuntur proprie humana, quae sunt propria hominis inquantum est homo...",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": "Finis, etsi sit postremus in executione, est tamen primus in intentione agentis..."
+                      },
+                      {
+                        "to_objection": 2,
+                        "text": "Si aliqua actio humana sit ultimus finis, oportet quod sit voluntaria..."
+                      },
+                      {
+                        "to_objection": 3,
+                        "text": "Huiusmodi actiones non sunt proprie humanae..."
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II-II",
+        "title": "Segunda sección de la segunda parte",
+        "subtitle": "Secunda secundae",
+        "description": "Virtudes teologales: fe (1-16), esperanza (17-22), caridad (23-46). Virtudes cardinales: prudencia (47-56), justicia (57-122), fortaleza (123-140), templanza (141-170). Carismas (171-178) y estados de vida (179-189).",
+        "questions": [
+          {
+            "id": 1,
+            "title": "La fe",
+            "articles": [
+              {
+                "id": 1,
+                "title": "¿Qué es la fe?",
+                "content": {
+                  "es": {
+                    "objections": [
+                      {
+                        "id": 1,
+                        "text": "Parece que no es conveniente la definición de fe que da el Apóstol en Heb 11,1..."
+                      }
+                    ],
+                    "sed_contra": "Se debe aceptar la autoridad del Apóstol.",
+                    "corpus": "Fe es el hábito de la mente por el cual se inicia la vida eterna en nosotros...",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": "Esta objeción considera la fe según su acto..."
+                      }
+                    ]
+                  },
+                  "la": {
+                    "objections": [
+                      {
+                        "id": 1,
+                        "text": "Videtur quod inconvenienter definiatur fides ab Apostolo..."
+                      }
+                    ],
+                    "sed_contra": "Auctoritas Apostoli est tenenda.",
+                    "corpus": "Fides est habitus mentis qua inchoatur vita aeterna in nobis...",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": "Haec obiectio procedit de fide secundum actum..."
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "title": "Tercera parte",
+        "subtitle": "Tertia",
+        "description": "Cristo: Su encarnación (1-6), sus cualidades (7-26), su vida (27-59). Sacramentos: en general (60-65). Bautismo (66-71), Confirmación (72), Eucaristía (73-83), Penitencia (84-90).",
+        "questions": [
+          {
+            "id": 84,
+            "title": "El sacramento de la penitencia",
+            "articles": [
+              {
+                "id": 1,
+                "title": "¿Es sacramento la penitencia?",
+                "content": {
+                  "es": {
+                    "objections": [
+                      {
+                        "id": 1,
+                        "text": "Dice San Gregorio I referido en Decretis I q.l: Los sacramentos son: El bautismo, la confirmación, el cuerpo y la sangre de Cristo..."
+                      },
+                      {
+                        "id": 2,
+                        "text": "Los sacramentos de la Iglesia son administrados por los ministros de Cristo..."
+                      },
+                      {
+                        "id": 3,
+                        "text": "Como hemos visto ya (q.66-83), en los sacramentos hay una cosa que es sacramentum tantum..."
+                      }
+                    ],
+                    "sed_contra": "De la misma manera que el bautismo es administrado para la purificación del pecado, así también la penitencia...",
+                    "corpus": "Como expone San Gregorio, el sacramento consiste en una ceremonia realizada de tal manera que recibimos simbólicamente lo que hemos de recibir santamente...",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": "Con el nombre de cosas materiales se entienden también en sentido amplio los actos exteriores sensibles..."
+                      },
+                      {
+                        "to_objection": 2,
+                        "text": "En los sacramentos que tienen como materia algo corporal, es menester que esa materia sea aplicada por el ministro de la Iglesia..."
+                      },
+                      {
+                        "to_objection": 3,
+                        "text": "También en la penitencia hay algo que es sacramentum tantum..."
+                      }
+                    ]
+                  },
+                  "la": {
+                    "objections": [
+                      {
+                        "id": 1,
+                        "text": "Dicit Gregorius in Decretis: Sacramenta sunt baptismus, confirmatio, corpus et sanguis Christi..."
+                      },
+                      {
+                        "id": 2,
+                        "text": "Sacramenta Ecclesiae administrantur a ministris Christi..."
+                      },
+                      {
+                        "id": 3,
+                        "text": "In sacramentis est aliquid quod est sacramentum tantum..."
+                      }
+                    ],
+                    "sed_contra": "Sicut baptismus datur ad purificationem peccati, ita etiam poenitentia...",
+                    "corpus": "Ut Gregorius exponit, sacramentum in aliqua celebratione sic fit ut rei gestae similitudo sit signum rei consecrandae...",
+                    "replies": [
+                      {
+                        "to_objection": 1,
+                        "text": "Nomine rerum corporalium intelliguntur etiam sensibiles actus exteriores..."
+                      },
+                      {
+                        "to_objection": 2,
+                        "text": "In sacramentis in quibus materia est aliquid corporale..."
+                      },
+                      {
+                        "to_objection": 3,
+                        "text": "Etiam in poenitentia est aliquid quod est sacramentum tantum..."
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "source": "https://hjg.com.ar/sumat/",
+    "note": "Como es sabido, santo Tomás dejó inconclusa su obra, promediando el tratado sobre los sacramentos de la Tercera Parte. Más tarde sus discípulos compusieron las partes restantes, basándose en escritos anteriores del santo. Esta versión no incluye ese Suplemento de la Tercera Parte.",
+    "last_updated": "septiembre 2012"
+  }
+}
