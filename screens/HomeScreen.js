@@ -52,7 +52,7 @@ export default function HomeScreen({ navigation }) {
         {/* Footer */}
         <View style={styles.footer}>
           <Text style={styles.footerText}>
-            hjg.com.ar • Última actualización: sept. 2012
+            Lucas Waisten • 2025
           </Text>
         </View>
       </ScrollView>

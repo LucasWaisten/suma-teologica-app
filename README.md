@@ -1,6 +1,6 @@
-# Suma Teológica - Aplicación React Native
+# Suma de Teológia - Aplicación React Native
 
-Una aplicación móvil para consultar la Suma Teológica de Santo Tomás de Aquino en español y latín.
+Una aplicación móvil para consultar la Suma de Teológia de Santo Tomás de Aquino en español y latín.
 
 ## Características
 
@@ -37,7 +37,7 @@ El archivo `data/sumaTeologica.json` contiene:
 
 ```json
 {
-  "title": "Suma Teológica",
+  "title": "Suma de Teológia",
   "author": "Santo Tomás de Aquino (1225-1274)",
   "structure": {
     "parts": [
@@ -108,7 +108,7 @@ El archivo `data/sumaTeologica.json` contiene:
 
 ## Fuente de los Datos
 
-Los textos de la Suma Teológica provienen de [hjg.com.ar/sumat/](https://hjg.com.ar/sumat/), una fuente confiable que ofrece el texto completo de la obra de Santo Tomás de Aquino.
+Los textos de la Suma de Teológia provienen de [hjg.com.ar/sumat/](https://hjg.com.ar/sumat/), una fuente confiable que ofrece el texto completo de la obra de Santo Tomás de Aquino.
 
 ## Estado del Proyecto
 
@@ -138,8 +138,8 @@ Para agregar más contenido:
 
 ## Contribución
 
-El proyecto está diseñado para ser expandido gradualmente. Las contribuciones para agregar más contenido de la Suma Teológica son bienvenidas.
+El proyecto está diseñado para ser expandido gradualmente. Las contribuciones para agregar más contenido de la Suma de Teológia son bienvenidas.
 
 ## Licencia
 
-Este proyecto es de uso educativo y religioso. Los textos de la Suma Teológica son de dominio público. 
+Este proyecto es de uso educativo y religioso. Los textos de la Suma de Teológia son de dominio público. 
